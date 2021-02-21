@@ -41,6 +41,7 @@
                 <ul class="horizontal-menu">
                     <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>Organic@company.com</a></li>
                     <li><a href="#">Free Shipping for all Order of $99</a></li>
+                    <li><a href="Backends/login.php" class="login-link"><i class="biolife-icon icon-login"></i>Login(Admin)</a></li>
                 </ul>
             </div>
             <div class="top-bar right">
